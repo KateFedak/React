@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReactAppPhone", "ReactAppPhone.csproj", "{B700A089-EB10-4E2F-9481-03D65EA7D576}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Models", "..\Models\Models.csproj", "{150E614C-1D06-4600-B709-DA79A5693F42}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B700A089-EB10-4E2F-9481-03D65EA7D576}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B700A089-EB10-4E2F-9481-03D65EA7D576}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B700A089-EB10-4E2F-9481-03D65EA7D576}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B700A089-EB10-4E2F-9481-03D65EA7D576}.Release|Any CPU.Build.0 = Release|Any CPU
+		{150E614C-1D06-4600-B709-DA79A5693F42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{150E614C-1D06-4600-B709-DA79A5693F42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{150E614C-1D06-4600-B709-DA79A5693F42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{150E614C-1D06-4600-B709-DA79A5693F42}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8884B941-88B7-4215-AC01-2E508438B3B7}
+	EndGlobalSection
+EndGlobal
